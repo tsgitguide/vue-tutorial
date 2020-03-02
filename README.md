@@ -1,3 +1,9 @@
+## 需要的工具
+1. git
+2. node.js
+3. vs code
+4. [vue develop tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)
+
 ## 安裝步驟
 
 1. git clone https://github.com/tsgitguide/vue-tutorial.git
