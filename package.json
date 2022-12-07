@@ -43,7 +43,7 @@
     "imagemin": "^6.1.0",
     "img-loader": "^3.0.1",
     "mini-css-extract-plugin": "^0.4.0",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "sass": "^1.26.2",
     "sass-loader": "^8.0.2",
     "terser-webpack-plugin": "^1.2.3",
