@@ -34,7 +34,7 @@
     "css-loader": "^2.1.1",
     "deepmerge": "^4.2.2",
     "es6-promise": "^4.2.6",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-session": "^1.15.6",
     "fibers": "^4.0.2",
     "file-loader": "^1.1.11",
